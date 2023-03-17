@@ -1,0 +1,16 @@
+.input{
+    width: 400px;
+    height: 50px;
+    background: #eae3de;
+    border: 0;
+    border-radius: 5px;
+}
+.btn{
+    width: 200px;
+    height: 50px;
+    background:#610505 ;
+    border: 0;
+    border-radius: 5px;
+}
+
+
